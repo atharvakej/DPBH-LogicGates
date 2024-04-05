@@ -1,10 +1,8 @@
-Certainly! Here's a template for a README file for the ClearInfo web extension:
-
----
 
 # ClearInfo Web Extension
 
 ClearInfo is a web browser extension designed to identify and encounter deceptive patterns on websites. It helps users detect and avoid websites that use dark patterns to deceive or manipulate users.
+[![Alt text](https://img.youtube.com/vi/unov8YPBNoM/0.jpg)](https://www.youtube.com/embed/unov8YPBNoM)
 
 ## Features
 
@@ -16,7 +14,7 @@ ClearInfo is a web browser extension designed to identify and encounter deceptiv
 
 ## Installation
 
-1. Download the ClearInfo extension from the Chrome Web Store.
+1. Unload the Extension in Chrome Browser.
 2. Click on the extension icon in your browser to activate ClearInfo.
 3. Browse the web as usual, and ClearInfo will automatically detect and encounter dark patterns on websites.
 
@@ -28,7 +26,7 @@ ClearInfo is a web browser extension designed to identify and encounter deceptiv
 
 ## Feedback
 
-We welcome feedback and suggestions for improving ClearInfo. If you have any questions, comments, or ideas, please contact us at [your-email@example.com](mailto:your-email@example.com).
+We welcome feedback and suggestions for improving ClearInfo. If you have any questions, comments, or ideas, please contact us at [your-email@example.com](mailto:atharvados12121@gmail.com).
 
 ---
 
