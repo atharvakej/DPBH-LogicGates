@@ -2,4 +2,4 @@
 [POSTER](poster.jpg)
 
 
-[Demo Video](https://img.youtube.com/vi/unov8YPBNoM/0.jpg)](https://www.youtube.com/watch?v=unov8YPBNoM)
+[Demo Video](https://www.youtube.com/watch?v=unov8YPBNoM)
