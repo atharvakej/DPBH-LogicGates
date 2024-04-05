@@ -1,8 +1,8 @@
-
+[![Alt text](https://img.youtube.com/vi/unov8YPBNoM/0.jpg)](https://www.youtube.com/embed/unov8YPBNoM)
 # ClearInfo Web Extension
 
 ClearInfo is a web browser extension designed to identify and encounter deceptive patterns on websites. It helps users detect and avoid websites that use dark patterns to deceive or manipulate users.
-[![Alt text](https://img.youtube.com/vi/unov8YPBNoM/0.jpg)](https://www.youtube.com/embed/unov8YPBNoM)
+
 
 ## Features
 
