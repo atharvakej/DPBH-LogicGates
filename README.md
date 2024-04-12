@@ -1,6 +1,6 @@
 ![Poster Presentation](poster.jpg)
 
-[![Youtube Video Demo Link](https://example.com/video_thumbnail.png)](https://example.com/link_to_video)
+[![Youtube Video Demo Link](https://img.youtube.com/vi/unov8YPBNoM/0.jpg)](https://www.youtube.com/embed/unov8YPBNoM)
 <sup>[[1]](#footnote1)</sup>
 
 ...
