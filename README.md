@@ -1,11 +1,7 @@
 ![Poster Presentation](poster.jpg)
 
 [![Youtube Video Demo Link](https://img.youtube.com/vi/unov8YPBNoM/0.jpg)](https://www.youtube.com/embed/unov8YPBNoM)
-<sup>[[1]](#footnote1)</sup>
-
-...
-
-<a name="footnote1">1</a>: Youtube Video Demo Link
+Video Demo Link
 
 # ClearInfo Web Extension
 
