@@ -26,8 +26,6 @@ ClearInfo is a web browser extension designed to identify and encounter deceptiv
 
 ## Feedback
 
-We welcome feedback and suggestions for improving ClearInfo. If you have any questions, comments, or ideas, please contact us at [your-email@example.com](mailto:atharvados12121@gmail.com).
+We welcome feedback and suggestions for improving ClearInfo. If you have any questions, comments, or ideas, please contact us at [atharvakjnitb@gmail.com](mailto:atharvados12121@gmail.com).
 
 ---
-
-Feel free to customize this template to fit the specific details and features of your ClearInfo web extension.
